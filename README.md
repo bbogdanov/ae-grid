@@ -24,4 +24,4 @@
   - yarn start
   - Do changes in ./projects/ae-grid
   - yarn build:prod
-  - Do `Run` steps.
+  - yarn start:development
